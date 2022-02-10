@@ -1,4 +1,4 @@
-package Day44_Abstraction.animalTask.animalTask;
+package Day44_Abstraction.animalTask;
 
 public final class Cat extends Animal{
 
