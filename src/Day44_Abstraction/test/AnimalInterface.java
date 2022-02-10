@@ -2,7 +2,11 @@ package Day44_Abstraction.test;
 
 public interface AnimalInterface {
 
-    public void toPee();
+    public abstract void toPee();
 
+    default void toRun(){};
 
+    static void wakeUp(){
+
+    };
 }
