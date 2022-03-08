@@ -2,9 +2,11 @@ package day45_Abstraction_Interface.shape;
 
 public class Cube extends Shape implements Volume{
 
+
     public Cube(String name) {
         super(name);
     }
+
 
     @Override
     public double area() {

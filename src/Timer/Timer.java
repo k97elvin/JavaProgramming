@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 public class Timer {
 
-
-
-
     public static void main(String[] args) throws InterruptedException {
 
         Scanner scan=new Scanner(System.in);

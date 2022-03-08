@@ -4,7 +4,7 @@ public class Square extends Shape {
     private double side;
 
 
-    public Square(String name) {
+    public Square() {
         super("Square");
         setSide(side);
     }
